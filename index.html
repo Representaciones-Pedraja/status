@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estado de los Servicios</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    h1 {
+      margin-top: 20px;
+      color: #333;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 20px;
+    }
+    .service {
+      padding: 20px;
+      margin: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      width: 200px;
+      text-align: center;
+      font-size: 16px;
+    }
+    .running {
+      background-color: #28a745;
+      color: white;
+    }
+    .stopped {
+      background-color: #dc3545;
+      color: white;
+    }
+    .service h3 {
+      margin: 0;
+      font-size: 18px;
+    }
+    .service p {
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Estado de los Servicios</h1>
+  <div class="container" id="services-container"></div>
+
+  <script>
+    async function fetchServices() {
+      try {
+        const response = await fetch('/api/status');  // Ahora la solicitud es al backend
+        if (!response.ok) {
+          throw new Error('Error al obtener datos del backend');
+        }
+
+        const data = await response.json();
+        const container = document.getElementById('services-container');
+        container.innerHTML = '';  // Limpiar el contenedor antes de agregar nuevos elementos
+
+        data.forEach(service => {
+          const serviceDiv = document.createElement('div');
+          serviceDiv.classList.add('service');
+          serviceDiv.classList.add(service.State === 'running' ? 'running' : 'stopped');
+          serviceDiv.innerHTML = `
+            <h3>${service.Names[0].replace('/', '')}</h3>
+            <p>Estado: ${service.State}</p>
+          `;
+          container.appendChild(serviceDiv);
+        });
+      } catch (error) {
+        console.error('Error al obtener los servicios:', error);
+        document.getElementById('services-container').innerHTML = `<p>Error al cargar los datos. Verifica la conexión con el backend.</p>`;
+      }
+    }
+
+    // Llama a la función al cargar la página y luego cada 5 segundos
+    fetchServices();
+    setInterval(fetchServices, 5000);
+  </script>
+
+</body>
+</html>
