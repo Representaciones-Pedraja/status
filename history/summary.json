@@ -1,0 +1,142 @@
+[
+  {
+    "name": "🌐 Shop",
+    "url": "https://pedraja.es",
+    "icon": "https://icons.duckduckgo.com/ip3/pedraja.es.ico",
+    "slug": "shop",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
+    "dailyMinutesDown": {
+      "2025-11-23": 18
+    }
+  },
+  {
+    "name": "💻 Cloud",
+    "url": "https://cloud.pedraja.es",
+    "icon": "https://icons.duckduckgo.com/ip3/cloud.pedraja.es.ico",
+    "slug": "cloud",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 82,
+    "timeDay": 82,
+    "timeWeek": 82,
+    "timeMonth": 82,
+    "timeYear": 82,
+    "dailyMinutesDown": {
+      "2025-11-23": 178
+    }
+  },
+  {
+    "name": "📦 Billing",
+    "url": "https://odoo.pedraja.es",
+    "icon": "https://icons.duckduckgo.com/ip3/odoo.pedraja.es.ico",
+    "slug": "billing",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-11-23": 18
+    }
+  },
+  {
+    "name": "✉️ Webmail",
+    "url": "https://webmail.pedraja.es",
+    "icon": "https://icons.duckduckgo.com/ip3/webmail.pedraja.es.ico",
+    "slug": "webmail",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
+    "dailyMinutesDown": {
+      "2025-11-23": 18
+    }
+  },
+  {
+    "name": "💾 Duplicati Backups",
+    "url": "https://backup.pedraja.es",
+    "icon": "https://icons.duckduckgo.com/ip3/backup.pedraja.es.ico",
+    "slug": "duplicati-backups",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
+    "dailyMinutesDown": {
+      "2025-11-23": 18
+    }
+  },
+  {
+    "name": "📊 Matomo",
+    "url": "https://analytics.pedraja.es",
+    "icon": "https://icons.duckduckgo.com/ip3/analytics.pedraja.es.ico",
+    "slug": "matomo",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 106,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
+    "dailyMinutesDown": {
+      "2025-11-23": 18
+    }
+  },
+  {
+    "name": "📈 Grafana",
+    "url": "https://grafana.pedraja.es",
+    "icon": "https://icons.duckduckgo.com/ip3/grafana.pedraja.es.ico",
+    "slug": "grafana",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 102,
+    "timeDay": 102,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
+    "dailyMinutesDown": {
+      "2025-11-23": 16
+    }
+  }
+]
