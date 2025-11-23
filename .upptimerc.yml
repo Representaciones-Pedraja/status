@@ -30,7 +30,7 @@ sites:
     url: https://pdrj.es
     maxResponseTime: 10000
 
-  - name: "Duplicati Backups"
+  - name: "Backups"
     url: https://backup.pedraja.es
     maxResponseTime: 10000
 
@@ -61,8 +61,6 @@ status-website:
       href: /
     - title: Sitio Web
       href: https://pedraja.es
-    - title: GitHub
-      href: https://github.com/Representaciones-Pedraja/status
 
 # Notificaciones
 assignees:
@@ -70,7 +68,7 @@ assignees:
 
 # Personalización
 i18n:
-  footer: "© 2024 Pedraja.es"
+  footer: "© 2025 Pedraja.es"
   
 commitMessages:
   commitAuthorName: "Pedraja Status Bot"
