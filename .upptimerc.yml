@@ -2,18 +2,27 @@ owner: Representaciones-Pedraja
 repo: status
 
 sites:
-  - name: Tienda
+  - name: "🌐 Shop"
     url: https://www.pedraja.es
-  - name: Facturacion
-    url: https://odoo.pedraja.es
-  - name: Cloud
+
+  - name: "💻 Cloud"
     url: https://cloud.pedraja.es
-  - name: Mail
+
+  - name: "📦 Billing"
+    url: https://odoo.pedraja.es
+
+  - name: "✉️ Webmail"
     url: https://webmail.pedraja.es
-  - name: Analytics
-    url: https://analytics.pedraja.es
-  - name: Backups
+
+  - name: "💾 Duplicati Backups"
     url: https://backup.pedraja.es
+
+  - name: "📊 Matomo"
+    url: https://analytics.pedraja.es
+
+  - name: "📈 Grafana"
+    url: https://grafana.pedraja.es
+
 
 status-website:
   cname: status.pedraja.es
