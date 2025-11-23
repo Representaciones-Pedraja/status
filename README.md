@@ -7,6 +7,7 @@ Monitor de disponibilidad de los servicios de Pedraja.es
 ---
 
 Powered by [Upptime](https://upptime.js.org)
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
