@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: "🌐 Shop"
-    url: https://www.pedraja.es
+    url: https://pedraja.es
 
   - name: "💻 Cloud"
     url: https://cloud.pedraja.es
