@@ -1,6 +1,6 @@
 [
   {
-    "name": "🌐 Shop",
+    "name": "Shop",
     "url": "https://pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/pedraja.es.ico",
     "slug": "shop",
@@ -16,11 +16,11 @@
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-11-23": 19
+      "2025-11-23": 38
     }
   },
   {
-    "name": "💻 Cloud",
+    "name": "Cloud",
     "url": "https://cloud.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.pedraja.es.ico",
     "slug": "cloud",
@@ -36,11 +36,11 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2025-11-23": 179
+      "2025-11-23": 218
     }
   },
   {
-    "name": "📦 Billing",
+    "name": "Billing",
     "url": "https://odoo.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/odoo.pedraja.es.ico",
     "slug": "billing",
@@ -56,11 +56,11 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-11-23": 19
+      "2025-11-23": 38
     }
   },
   {
-    "name": "✉️ Webmail",
+    "name": "Webmail",
     "url": "https://webmail.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.pedraja.es.ico",
     "slug": "webmail",
@@ -76,11 +76,11 @@
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-11-23": 19
+      "2025-11-23": 38
     }
   },
   {
-    "name": "💾 Duplicati Backups",
+    "name": "Duplicati Backups",
     "url": "https://backup.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/backup.pedraja.es.ico",
     "slug": "duplicati-backups",
@@ -96,11 +96,11 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2025-11-23": 19
+      "2025-11-23": 38
     }
   },
   {
-    "name": "📊 Matomo",
+    "name": "Matomo",
     "url": "https://analytics.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.pedraja.es.ico",
     "slug": "matomo",
@@ -116,11 +116,11 @@
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-11-23": 18
+      "2025-11-23": 38
     }
   },
   {
-    "name": "📈 Grafana",
+    "name": "Grafana",
     "url": "https://grafana.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.pedraja.es.ico",
     "slug": "grafana",
@@ -136,7 +136,7 @@
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-11-23": 16
+      "2025-11-23": 36
     }
   }
 ]
