@@ -2,48 +2,46 @@ owner: Representaciones-Pedraja
 repo: status
 
 sites:
-  - name: "🌐 Shop"
+  - name: "Shop"
     url: https://pedraja.es
 
-  - name: "💻 Cloud"
+  - name: "Cloud"
     url: https://cloud.pedraja.es
 
-  - name: "📦 Billing"
+  - name: "Billing"
     url: https://odoo.pedraja.es
 
-  - name: "✉️ Webmail"
+  - name: "Webmail"
     url: https://webmail.pedraja.es
 
-  - name: "💾 Duplicati Backups"
+  - name: "Duplicati Backups"
     url: https://backup.pedraja.es
 
-  - name: "📊 Matomo"
+  - name: "Matomo"
     url: https://analytics.pedraja.es
 
-  - name: "📈 Grafana"
+  - name: "Grafana"
     url: https://grafana.pedraja.es
 
 
 status-website:
   cname: status.pedraja.es
   logoUrl: https://pedraja.es/img/logo-1700576909.webp  # ← Pon la URL de tu logo aquí
-  icon: https://pedraja.es/img/favicon.ico
-  name: Pedraja Status
   introTitle: "Estado de los servicios de **Pedraja**"
   introMessage: Monitoreo en tiempo real de nuestros servicios principales servicios.
   navbar:
     - title: Status
       href: /
     - title: Sitio Web
-      href: https://www.pedraja.es
+      href: https://pedraja.es
     - title: GitHub
       href: https://github.com/Representaciones-Pedraja/status
   
   # Personalización de tema y colores
-  theme: dark  # Opciones: light, dark, night, ocean
+  theme: light  # Opciones: light, dark, night, ocean
   
   # Ocultar secciones
-  favicon: https://pedraja.es/img/logo-1700576909.webp
+  favicon: https://pedraja.es/img/favicon.ico
   
   # Personalizar colores (opcional)
   customCSS: |
