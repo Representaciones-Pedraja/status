@@ -46,6 +46,12 @@ sites:
     url: https://vpn.pedraja.es
     maxResponseTime: 10000
 
+scheduledMaintenances:
+  - name: "Backup diario"
+    description: "Durante este periodo los servicios pueden estar temporalmente no disponibles debido al backup automático."
+    start: "2025-11-24T03:00:00+01:00"   # Fecha origen
+    duration: 25m                       # Duración
+    cron: "0 3 * * *"                   # Todos los días a las 03:00
 
 status-website:
   cname: status.pedraja.es
