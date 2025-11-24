@@ -82,3 +82,10 @@ commitMessages:
 
 skipDescriptionIssues: true
 skipTopicsIssues: true
+
+notifications:
+  - type: telegram
+    token: ${{ secrets.TELEGRAM_TOKEN }}
+    chat_id: -1002746763432
+    downtime_message: "⚠️ *Servicio caído:* {{ site.name }} ({{ site.url }})"
+    recovery_message: "✅ *Servicio restaurado:* {{ site.name }}"
