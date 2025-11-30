@@ -7,15 +7,15 @@ user-agent: Mozilla/5.0 (compatible; PedrajaStatus/1.0)
 sites:
   - name: "Shop"
     url: https://pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "Cloud"
     url: https://cloud.pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "Billing"
     url: https://odoo.pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "Mail"
     url: mail.pedraja.es
@@ -24,34 +24,34 @@ sites:
 
   - name: "Webmail"
     url: https://webmail.pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "Pdrj"
     url: https://pdrj.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "Backups"
     url: https://backup.pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "Matomo"
     url: https://analytics.pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "Grafana"
     url: https://grafana.pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
   - name: "VPN"
     url: https://vpn.pedraja.es
-    maxResponseTime: 10000
+    maxResponseTime: 30000
 
 scheduledMaintenances:
   - name: "Backup diario"
-    description: "Durante este periodo los servicios pueden estar temporalmente no disponibles debido al backup automático."
-    start: "2025-11-24T03:00:00+01:00"   # Fecha origen
-    duration: 25m                       # Duración
-    cron: "0 3 * * *"                   # Todos los días a las 03:00
+    description: "Los servicios pueden estar temporalmente no disponibles debido al backup automático."
+    start: "03:00"
+    end: "03:40"
+    schedule: "0 3 * * *"  # Cambiar "cron" por "schedule"
 
 status-website:
   cname: status.pedraja.es
