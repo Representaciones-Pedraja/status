@@ -76,19 +76,19 @@
     "url": "https://webmail.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.pedraja.es.ico",
     "slug": "webmail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1317,
-    "timeDay": 388,
-    "timeWeek": 693,
-    "timeMonth": 1317,
-    "timeYear": 1317,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1308,
+    "timeDay": 605,
+    "timeWeek": 720,
+    "timeMonth": 1308,
+    "timeYear": 1308,
     "dailyMinutesDown": {
-      "2025-12-07": 0
+      "2025-12-07": 12
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://pdrj.es",
     "icon": "https://icons.duckduckgo.com/ip3/pdrj.es.ico",
     "slug": "pdrj",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 387,
-    "timeWeek": 598,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 644,
+    "timeDay": 558,
+    "timeWeek": 621,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2025-12-07": 0
+      "2025-12-07": 12
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://backup.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/backup.pedraja.es.ico",
     "slug": "backups",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 379,
-    "timeWeek": 544,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 585,
+    "timeDay": 686,
+    "timeWeek": 628,
+    "timeMonth": 585,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-12-07": 0
+      "2025-12-07": 12
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://analytics.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.pedraja.es.ico",
     "slug": "matomo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 690,
-    "timeWeek": 996,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 994,
+    "timeDay": 1268,
+    "timeWeek": 1154,
+    "timeMonth": 994,
+    "timeYear": 994,
     "dailyMinutesDown": {
-      "2025-12-07": 0
+      "2025-12-07": 12
     }
   },
   {
@@ -157,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.pedraja.es.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 798,
     "timeDay": 474,
     "timeWeek": 883,
     "timeMonth": 798,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-12-07": 0
+      "2025-12-07": 12
     }
   },
   {
@@ -176,19 +176,19 @@
     "url": "https://vpn.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.pedraja.es.ico",
     "slug": "vpn",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 441,
-    "timeDay": 450,
-    "timeWeek": 440,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 443,
+    "timeDay": 463,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-12-07": 55
+      "2025-12-07": 67
     }
   }
 ]
