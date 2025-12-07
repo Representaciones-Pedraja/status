@@ -76,90 +76,100 @@
     "url": "https://webmail.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.pedraja.es.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1356,
-    "timeDay": 542,
-    "timeWeek": 735,
-    "timeMonth": 1356,
-    "timeYear": 1356,
-    "dailyMinutesDown": {}
+    "time": 1317,
+    "timeDay": 388,
+    "timeWeek": 693,
+    "timeMonth": 1317,
+    "timeYear": 1317,
+    "dailyMinutesDown": {
+      "2025-12-07": 0
+    }
   },
   {
     "name": "Pdrj",
     "url": "https://pdrj.es",
     "icon": "https://icons.duckduckgo.com/ip3/pdrj.es.ico",
     "slug": "pdrj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 504,
-    "timeWeek": 627,
-    "timeMonth": 649,
-    "timeYear": 649,
-    "dailyMinutesDown": {}
+    "time": 634,
+    "timeDay": 387,
+    "timeWeek": 598,
+    "timeMonth": 634,
+    "timeYear": 634,
+    "dailyMinutesDown": {
+      "2025-12-07": 0
+    }
   },
   {
     "name": "Backups",
     "url": "https://backup.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/backup.pedraja.es.ico",
     "slug": "backups",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 479,
-    "timeWeek": 582,
-    "timeMonth": 559,
-    "timeYear": 559,
-    "dailyMinutesDown": {}
+    "time": 543,
+    "timeDay": 379,
+    "timeWeek": 544,
+    "timeMonth": 543,
+    "timeYear": 543,
+    "dailyMinutesDown": {
+      "2025-12-07": 0
+    }
   },
   {
     "name": "Matomo",
     "url": "https://analytics.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.pedraja.es.ico",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 1150,
-    "timeWeek": 1105,
-    "timeMonth": 957,
-    "timeYear": 957,
-    "dailyMinutesDown": {}
+    "time": 919,
+    "timeDay": 690,
+    "timeWeek": 996,
+    "timeMonth": 919,
+    "timeYear": 919,
+    "dailyMinutesDown": {
+      "2025-12-07": 0
+    }
   },
   {
     "name": "Grafana",
     "url": "https://grafana.pedraja.es",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.pedraja.es.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 718,
-    "timeWeek": 976,
-    "timeMonth": 828,
-    "timeYear": 828,
-    "dailyMinutesDown": {}
+    "time": 798,
+    "timeDay": 474,
+    "timeWeek": 883,
+    "timeMonth": 798,
+    "timeYear": 798,
+    "dailyMinutesDown": {
+      "2025-12-07": 0
+    }
   },
   {
     "name": "VPN",
@@ -167,18 +177,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.pedraja.es.ico",
     "slug": "vpn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.72%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 441,
     "timeDay": 450,
     "timeWeek": 440,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-12-07": 0
+      "2025-12-07": 55
     }
   }
 ]
