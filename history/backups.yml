@@ -1,7 +1,7 @@
 url: https://backup.pedraja.es
-status: down
-code: 521
-responseTime: 167
-lastUpdated: 2025-12-08T05:33:37.860Z
+status: up
+code: 200
+responseTime: 1631
+lastUpdated: 2025-12-08T05:51:09.553Z
 startTime: 2025-11-23T23:25:57.213Z
 generator: Upptime <https://github.com/upptime/upptime>
