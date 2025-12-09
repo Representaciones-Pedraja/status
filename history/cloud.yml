@@ -1,7 +1,7 @@
 url: https://cloud.pedraja.es
-status: up
-code: 200
-responseTime: 1270
-lastUpdated: 2025-12-09T03:34:52.562Z
+status: down
+code: 500
+responseTime: 1185
+lastUpdated: 2025-12-09T09:34:25.719Z
 startTime: 2025-11-23T21:38:57.858Z
 generator: Upptime <https://github.com/upptime/upptime>
