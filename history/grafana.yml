@@ -1,7 +1,7 @@
 url: https://grafana.pedraja.es
-status: down
-code: 404
-responseTime: 467
-lastUpdated: 2026-01-10T23:13:46.397Z
+status: up
+code: 200
+responseTime: 1071
+lastUpdated: 2026-01-11T01:50:30.943Z
 startTime: 2025-11-23T21:39:04.372Z
 generator: Upptime <https://github.com/upptime/upptime>
