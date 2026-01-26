@@ -1,7 +1,7 @@
 url: https://pedraja.es
-status: up
-code: 200
-responseTime: 2162
-lastUpdated: 2026-01-25T23:14:13.418Z
+status: down
+code: 500
+responseTime: 510
+lastUpdated: 2026-01-26T14:43:11.528Z
 startTime: 2025-11-23T21:38:56.690Z
 generator: Upptime <https://github.com/upptime/upptime>
