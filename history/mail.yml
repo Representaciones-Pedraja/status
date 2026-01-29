@@ -1,7 +1,7 @@
 url: mail.pedraja.es
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-29T02:22:31.734Z
+status: up
+code: 200
+responseTime: 106
+lastUpdated: 2026-01-29T04:16:21.336Z
 startTime: 2025-11-23T21:38:59.528Z
 generator: Upptime <https://github.com/upptime/upptime>
