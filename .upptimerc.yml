@@ -47,10 +47,10 @@ sites:
     
 scheduledMaintenances:
   - name: "Backup diario"
-    description: "Backup automático diario. Algunos servicios pueden no estar disponibles."
-    start: "01:00"
-    end: "04:00"
-    schedule: "0 1 * * *"
+    description: "Backup automático diario. Monitoreo pausado durante este período."
+    start: "03:00"
+    end: "03:30"
+    schedule: "0 3 * * *"  # Todos los días a las 3:00 AM
 
 status-website:
   cname: status.pedraja.es
@@ -82,6 +82,14 @@ commitMessages:
 skipDescriptionIssues: true
 skipTopicsIssues: true
 skipNotificationsDuringMaintenance: true
+
+# Configuración adicional para evitar issues durante mantenimiento
+workflowSchedule:
+  uptime: "*/5 * * * *"  # Cada 5 minutos
+  responseTime: "0 23 * * *"
+  graphs: "0 0 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
 
 notifications:
   - type: telegram
