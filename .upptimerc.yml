@@ -33,10 +33,6 @@ sites:
     url: https://backup.pedraja.es
     maxResponseTime: 30000
 
-  - name: "Matomo"
-    url: https://analytics.pedraja.es
-    maxResponseTime: 30000
-
   - name: "Grafana"
     url: https://grafana.pedraja.es
     maxResponseTime: 30000
