@@ -1,7 +1,7 @@
 url: https://odoo.pedraja.es
-status: up
-code: 200
-responseTime: 1117
-lastUpdated: 2026-03-11T23:19:10.459Z
+status: down
+code: 404
+responseTime: 655
+lastUpdated: 2026-03-12T09:00:25.129Z
 startTime: 2025-11-23T21:38:58.707Z
 generator: Upptime <https://github.com/upptime/upptime>
