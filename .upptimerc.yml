@@ -13,7 +13,7 @@ sites:
     maxResponseTime: 30000
 
   - name: "Billing"
-    url: https://odoo.pedraja.es
+    url: https://facturacion.pedraja.es
     maxResponseTime: 30000
 
   - name: "Mail"
