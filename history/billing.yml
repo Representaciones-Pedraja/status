@@ -1,7 +1,7 @@
 url: https://facturacion.pedraja.es
-status: up
-code: 200
-responseTime: 541
-lastUpdated: 2026-03-23T23:25:25.668Z
+status: down
+code: 404
+responseTime: 494
+lastUpdated: 2026-03-24T02:03:07.787Z
 startTime: 2025-11-23T21:38:58.707Z
 generator: Upptime <https://github.com/upptime/upptime>
